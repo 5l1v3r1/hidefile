@@ -7,3 +7,6 @@ cd hidefile <br>
 chmod +x hide.sh <br>
 ./hide.sh <br>
 
+<br><br>
+# What does our tool do? <br>
+This is a tool that can embed file into the jpg image to hide.
