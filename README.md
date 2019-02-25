@@ -10,3 +10,8 @@ chmod +x hide.sh <br>
 <br><br>
 # What does our tool do? <br>
 This is a tool that can embed file into the jpg image to hide.
+
+# Youtube Channel
+
+[](url) https://www.youtube.com/channel/UC5UKfyTLyW2rDzpRaKzm7Sg
+
