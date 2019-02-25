@@ -5,7 +5,7 @@
 while [ 1 ]
 do
 	tput setaf 5
-	figlet ++HxH++
+	figlet ++HIDE++
 	tput setaf 2
 	echo "          ================================"
 	echo "          |     Author Kaito Spiker      |"
